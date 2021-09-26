@@ -15,9 +15,13 @@ Menu propriedades.
 7. Para ver os vetores, no menu Lançamento de Projétil, na aba da direita, clique no botão Régua para habilitar as anotações de medidas, setas de vetores, etc. No menu pop-up Bola Quicando habilite as opções Mostrar Vetores e Mostrar Anotações. Para mostrar distâncias habilite a opção Mostrar Distâncias. Os vetores e as distâncias são anotações, certifique-se que a opção Mostrar Anotações esteja ligada, se não aparecer as setas e as distâncias, aperte o botão Régua no menu lateral  Lançamento de Projétil até aparecer as anotações.
 
 Screenshots:
+
 ![alt text](https://github.com/jamesrtorres/tcc-blender-addons/blob/master/Images/screen02.png)
+
 Tela do blender com addon lançamento de projétil.
+
 ![alt text](https://github.com/jamesrtorres/tcc-blender-addons/blob/master/Images/screen03.png)
+
 Tela do blender com menu do addon lançamento de projétil
 
 Dicas de Blender:
